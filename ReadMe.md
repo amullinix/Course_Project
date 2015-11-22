@@ -27,6 +27,6 @@ Here are the data for the project: https://d396qusza40orc.cloudfront.net/getdata
 	- README.md
 	- CodeBook.md: information about raw and tidy data set 
 	- run_analysis.R: R script 
-	- tidydata.md: tidy data set
+	- tidydata.txt: tidy data set
 
-In the repository, you find the file tidydata.md with the tidy data set.
+In the repository, you find the file tidydata.txt with the tidy data set.
